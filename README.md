@@ -10,3 +10,5 @@
 * `MCU`: MCU由SAMD11修改为RP2040；   
 * `USB PHY`: USB PHY由USB3343修改为USB3320；   
 * `PD 诱骗`: PD 诱骗IC修改为HUSB238；  
+
+![board](https://github.com/ZakirJie/cynthion-hardware-4Layer/blob/main/jp/board.png)
