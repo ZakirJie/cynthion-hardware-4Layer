@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name cynthion)(type KiCad)(uri ${KIPRJMOD}/libraries/cynthion.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "cynthion")(type "KiCad")(uri "${KIPRJMOD}/libraries/cynthion.pretty")(options "")(descr ""))
+  (lib (name "Porject")(type "KiCad")(uri "${KIPRJMOD}/libraries/Porject.pretty")(options "")(descr ""))
 )
